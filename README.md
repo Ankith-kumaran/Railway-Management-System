@@ -24,4 +24,4 @@ The master user of this system is the Railway Administrator who can login  using
 
 <br>
 
-![](
+![](https://github.com/Ankith-kumaran/Railway-Management-System/blob/main/ER.png)
